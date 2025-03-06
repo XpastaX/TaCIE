@@ -5,7 +5,7 @@ TaCIE: Enhancing Instruction Comprehension in Large Language Models through Task
 
 # Data Link
 - seed_48k.json
-  - All seed instructions.
+  - All seed instructions. In data/evolve/ 
 - final.json
   - Final collection of fine-tuning data.
 - evolved.json
